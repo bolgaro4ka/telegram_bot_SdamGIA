@@ -5,13 +5,13 @@
 Telegram bot, that helps you prepare for the exam in mathematics without leaving the telegram!
 
 **Comands:**
-/start - start
-/help - help
-/calc - calc
-/info - crib
-/trainer - gives random quests
-/GM - show debug text
-/NO_GM - disable debug text
+  - /start - start
+  - /help - help
+  - /calc - calc
+  - /info - crib
+  - /trainer - gives random quests
+  - /GM - show debug text
+  - /NO_GM - disable debug text
 
 **Imports:**
  - aiogram
