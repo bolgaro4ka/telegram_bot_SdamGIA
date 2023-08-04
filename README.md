@@ -1,4 +1,4 @@
-# telegram_bot_SdamGIA
+# Telegram bot SdamGIA
 
 ![Снимок экрана от 2023-06-24 14-45-27](https://github.com/bolgaro4ka/telegram_bot_SdamGIA/assets/123888141/99f0f9af-b4c6-45bc-89da-ddc09adfdd58)
 
