@@ -4,7 +4,7 @@
 
 Telegram bot, that helps you prepare for the exam in mathematics without leaving the telegram!
 
-**Comands:**
+## Comands
   - /start - start
   - /help - help
   - /calc - calc
@@ -13,7 +13,7 @@ Telegram bot, that helps you prepare for the exam in mathematics without leaving
   - /GM - show debug text
   - /NO_GM - disable debug text
 
-**Imports:**
+## Imports
  - aiogram
  - sdamgia-api
 
